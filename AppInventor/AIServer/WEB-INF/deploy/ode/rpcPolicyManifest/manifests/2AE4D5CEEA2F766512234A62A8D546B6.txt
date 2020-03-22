@@ -1,2 +1,0 @@
-serviceClass: com.google.appinventor.shared.rpc.GetMotdService
-path: FFA8F452438BD688B163A593998CB1DB.gwt.rpc
